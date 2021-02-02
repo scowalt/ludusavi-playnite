@@ -1,4 +1,4 @@
-# Ludusavi for Playnite
+# <img width="20" height="20" src="./icon.png" alt="Ludusavi Icon"> Ludusavi for Playnite
 This repository contains a [Playnite 8+](https://playnite.link) plugin to
 back up your save data using [Ludusavi](https://github.com/mtkennerly/ludusavi).
 
